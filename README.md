@@ -23,3 +23,6 @@ The SQL database includes tables for products, categories, tags, and product tag
 ## Questions
 Please visit my **[GitHub profile](https://github.com/debleehall/)** to check out this and other projects I've created and contributed to.
 If you have any specific questions about this project, please contact me at <debleehall15@gmail.com>.
+
+## Link
+- [Walkthrough](https://watch.screencastify.com/v/s797oKm8WtgwAEC29EN4)
